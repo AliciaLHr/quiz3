@@ -45,6 +45,7 @@ nav ul {
     justify-content: center;
     text-align: center;
     flex-wrap: wrap;
+    display:flex; 
 }
 
 /* nav ul - grid */
